@@ -280,7 +280,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cameron Cash (PizzaLovingNerd)
 1. Cameron Durham
 1. Cameron Tauxe
-1. Camila Ayres (@camilasan, Nextcloud)
 1. Cam Tenny (Igalia)
 1. Cara Esten Hurtle
 1. Carina C. Zona (CallbackWomen)
@@ -644,6 +643,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hubert Figuière
 1. Hypolite Petovan (Friendica Developer)
 1. Iain Nicol
+1. Ian Denhardt (Sandstorm contributor, former GNU Social developer, former FSF member)
 1. Ian Hyzy
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
 1. Ian Stapleton Cordasco
@@ -925,7 +925,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lucas Holt
 1. Lucas Nussbaum (Former Debian Project Leader)
 1. Lucas Werkmeister
-1. Lucy Wyman
 1. Ludovic Gasc
 1. Ludvig Norgren Guldhag
 1. Luis Antonio Sánchez Romero
@@ -1467,7 +1466,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tux Pacific (NuCypher)
 1. Tyrel Souza
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
-1. Ursula Junque (Ubuntu member)
 1. Utku Boduroglu
 1. Vadim Rutkovsky
 1. Vanessa Oxley
